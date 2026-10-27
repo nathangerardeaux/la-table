@@ -17,7 +17,7 @@ Le jeu est récent et pas encore connu de Windows, qui peut afficher « Windows 
 Pour vérifier que le fichier est bien l'original, compare son empreinte SHA-256 avec celle indiquée dans la release :
 
 ```powershell
-Get-FileHash .\LaTable-0.1.2.exe -Algorithm SHA256
+Get-FileHash .\LaTable-0.1.3.exe -Algorithm SHA256
 ```
 
 ## Jouer
